@@ -31,7 +31,6 @@ and high-performance APIs using the Microsoft ecosystem.
 - 🔐 Worked extensively on **Authentication, CRM, Insurance, Banking & Finance Platforms**
 - 👨‍💻 Passionate about architecture, clean code, performance optimization, and scalable systems
 - 🧪 Strong focus on testing, automation, and engineering best practices
-- 📍 Based in Australia
 
 ---
 
@@ -321,14 +320,6 @@ Multipurpose platform showcasing:
 
 ---
 
-## AI, CRM & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge)
-![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0B53CE?style=for-the-badge)
-![Dataverse](https://img.shields.io/badge/Dataverse-0066FF?style=for-the-badge)
-
----
-
 # 🏆 Certifications & Achievements
 
 - ✅ AZ-900 Azure Fundamentals
@@ -420,8 +411,4 @@ Apart from enterprise software development, I’m also passionate about:
 
 <p align="center">
 ⭐ Always building, learning, and improving engineering workflows through clean architecture, automation, cloud engineering, and AI-assisted development.
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nikhilchaudhary30&icon=5&color=12" />
 </p>
