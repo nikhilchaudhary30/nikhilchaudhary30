@@ -227,31 +227,97 @@ Multipurpose platform showcasing:
 ## Backend & APIs
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
 ![Web API](https://img.shields.io/badge/Web_API-000000?style=for-the-badge)
+![WCF](https://img.shields.io/badge/WCF-5C2D91?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![Windows Services](https://img.shields.io/badge/Windows_Service-0078D6?style=for-the-badge)
+![Worker Services](https://img.shields.io/badge/Worker_Service-0066CC?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Auth/IAM-008080?style=for-the-badge)
 
 ---
 
 ## Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
-## Cloud & DevOps
+## Cloud, DevOps & Infrastructure
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab)
+![Octopus Deploy](https://img.shields.io/badge/Octopus_Deploy-2F93E0?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 
 ---
 
-## Databases
+## Databases & Reporting
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge)
+![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge)
+
+---
+
+## AI, CRM & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![ML.NET](https://img.shields.io/badge/ML.NET-5C2D91?style=for-the-badge)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0B53CE?style=for-the-badge)
+![Dataverse](https://img.shields.io/badge/Dataverse-0066FF?style=for-the-badge)
+![IVR](https://img.shields.io/badge/IVR_Systems-FF8C00?style=for-the-badge)
+
+---
+
+## Mobile & Desktop Development
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin)
+![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge)
+![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge)
+![Desktop Apps](https://img.shields.io/badge/Desktop_Applications-4B8BBE?style=for-the-badge)
+![Mobile Apps](https://img.shields.io/badge/Mobile_Applications-00C853?style=for-the-badge)
+
+---
+
+## Architecture, ORM & Testing
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
+![Dapper](https://img.shields.io/badge/Dapper-FF9900?style=for-the-badge)
+![NUnit](https://img.shields.io/badge/NUnit-25A162?style=for-the-badge)
+![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+
+---
+
+## Tools & Platforms Used
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge)
+![TFS](https://img.shields.io/badge/TFS-0078D7?style=for-the-badge)
+![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice)
 
 ---
 
@@ -296,13 +362,31 @@ Multipurpose platform showcasing:
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/nikhilchaudhary30" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+
+<a href="https://linkedin.com/in/nikhilchaudhary30" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
 <a href="mailto:nikhilchaudhary30@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
+
+<a href="https://discord.com/users/nikhilchaudhary30" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="50" />
+</a>
+
+<a href="https://profile.playstation.com/theintruder30" target="_blank">
+  <img src="https://cdn.simpleicons.org/playstation/white" height="50" />
+</a>
+
+<a href="https://www.meta.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/meta/white" height="50" />
+</a>
+
+<a href="https://www.nintendo.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nintendo.svg" height="50" width="50" />
+</a>
+
 </p>
 
 ---
@@ -326,6 +410,18 @@ Apart from enterprise software development, I’m also passionate about:
 
 ---
 
+# 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
 <p align="center">
 ⭐ Always building, learning, and improving engineering workflows through clean architecture, automation, cloud engineering, and AI-assisted development.
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nikhilchaudhary30&icon=5&color=12" />
 </p>
