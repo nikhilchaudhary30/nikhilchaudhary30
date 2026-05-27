@@ -1,27 +1,331 @@
-# 💫 About Me:
-I am a .NET Full Stack Developer currently working as a Technical Lead, with over 11 years of professional experience. I specialize in designing, developing, and maintaining scalable web applications using the Microsoft technology stack. Over the years, I have led development teams, driven technical decisions, and delivered high-quality solutions aligned with business goals, while maintaining a strong hands-on approach to coding and problem-solving.
+<h1 align="center">Hi 👋, I'm Nikhil Chaudhary</h1>
 
+<h3 align="center">
+Technical Lead | .NET Full Stack Engineer | Cloud & AI Automation Specialist
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhilchaudhary30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilchaudhary30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilchaudhary30@gmail.com) 
+<p align="center">
+11+ years of experience building scalable enterprise applications,
+AI-powered automation systems, cloud-native services,
+and high-performance APIs using the Microsoft ecosystem.
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhilchaudhary30&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nikhilchaudhary30&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilchaudhary30&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/nikhilchaudhary30">
+    <img src="https://komarev.com/ghpvc/?username=nikhilchaudhary30&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nikhilchaudhary30&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nikhilchaudhary30&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-AI%20Powered-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Technical%20Lead-purple?style=flat-square" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nikhilchaudhary30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+- 💼 Currently working as a **Technical Lead**
+- 🧠 Strong expertise in **.NET, Azure, APIs, SQL, Cloud & Enterprise Systems**
+- 🤖 Building **AI-powered automation workflows** using Azure OpenAI integrations
+- ☁️ Experienced in **Azure Services, Worker Services, CI/CD, Docker, and Microservices**
+- 🔐 Worked extensively on **Authentication, CRM, Insurance, Banking & Finance Platforms**
+- 👨‍💻 Passionate about architecture, clean code, performance optimization, and scalable systems
+- 🧪 Strong focus on testing, automation, and engineering best practices
+- 📍 Based in Australia
+
+---
+
+# 🤖 AI-Assisted Engineering
+
+I use AI tools to accelerate engineering workflows once requirements and expected functionality are clearly defined.
+
+This includes:
+- Generating boilerplate code
+- Creating class structures
+- Suggesting meaningful method names
+- Scaffolding unit test cases
+- Assisting with documentation
+- Identifying edge cases and optimizations
+- Improving delivery efficiency and developer productivity
+
+All AI-generated code is carefully reviewed, validated, refactored, tested, and optimized before production implementation.
+
+---
+
+# 🏢 Enterprise Projects
+
+## 🔐 SAS Authentication Platform — Thales
+
+Enterprise authentication and access management platform used by multiple customers for secure authentication, authorization, and identity workflows.
+
+### Key Contributions
+- Migrated backend services from .NET Framework to .NET Core
+- Migrated databases from MSSQL/MySQL to PostgreSQL
+- Fixed long-pending production issues and customer tickets
+- Improved SQL performance and optimized stored procedures
+- Led a team of 6 engineers
+- Worked on OAuth/OIDC and authentication workflows
+- Enhanced scalability, maintainability, and operational stability
+
+### Technologies
+`.NET Core` `PostgreSQL` `OAuth` `JWT` `Docker` `Dapper` `Azure DevOps`
+
+---
+
+## 🏦 Banking & Loan Management Platform — Infosys
+
+Built scalable finance and loan management systems including:
+- ACH payment systems
+- Loan management portals
+- IVR payment systems
+- Customer self-service platforms
+- Monitoring dashboards
+
+### Key Contributions
+- Developed IVR framework from scratch
+- Built APIs for web and mobile applications
+- Developed monitoring applications using Blazor
+- Created SSIS packages and stored procedures
+- Integrated AWS Polly & Windows Speech APIs
+- Led and mentored a team of 18 developers
+
+### Technologies
+`.NET Core` `Blazor` `SSIS` `AWS Polly` `SQL Server` `Azure`
+
+---
+
+## 🤖 AI CRM Automation Platform — Infosys
+
+Built AI-powered automation workflows using Azure OpenAI and Microsoft Power Platform.
+
+### Key Contributions
+- Extracted data from emails, PDFs, and Excel files using AI
+- Automated CRM record creation workflows
+- Built Power Automate pipelines
+- Customized Dynamics 365 CRM and Dataverse
+- Developed C# plugins and integrations
+- Reduced manual operational effort through automation
+
+### Technologies
+`Azure OpenAI` `Power Automate` `Dataverse` `Dynamics 365` `C#`
+
+---
+
+## 🏥 Insurance Management Platform — Damco & Accenture
+
+Enterprise insurance and benefits management systems with mobile and web support.
+
+### Key Contributions
+- Developed Angular and .NET Core applications
+- Created mobile solutions using Xamarin/MAUI
+- Built conversion/import systems using SQL Jobs
+- Developed reusable APIs for multi-client platforms
+- Created monitoring and website health systems
+
+### Technologies
+`Angular` `.NET Core` `MAUI` `SQL Server` `Blazor`
+
+---
+
+## 📦 E-Commerce & Logistics Platforms — Icreon & Veridic
+
+Worked on large-scale e-commerce and logistics systems including:
+- Shipment and delivery systems
+- Driver allocation systems
+- Mobile buyback platforms
+- Automated diagnostics systems
+
+### Key Contributions
+- Built scalable backend APIs and MVC applications
+- Integrated device and IMEI detection systems
+- Worked on Google Maps integrations
+- Created reporting and database management systems
+
+### Technologies
+`ASP.NET MVC` `SQL Server` `Entity Framework` `JavaScript` `jQuery`
+
+---
+
+# 🚀 Public & Personal Projects
+
+## 🦠 Vaccine Notification Service
+
+Windows Service that tracks vaccine slot availability and sends automated notifications.
+
+### Features
+- District-based tracking
+- Automated alerts
+- Background processing
+- API integrations
+
+### Technologies
+`C#` `Windows Service`
+
+---
+
+## 🤖 Telegram Notification Bot
+
+Automation bot that sends:
+- Weather updates
+- Covid alerts
+- Free game notifications
+- Google search results
+- API-based alerts
+
+### Integrations
+`Telegram API` `Weather APIs` `Epic Games API` `Google APIs`
+
+---
+
+## 🌐 DOTNETLife Platform (In Progress)
+
+Multipurpose platform showcasing:
+- Photography
+- Achievements
+- Automated email workflows
+- Personal portfolio features
+- API integrations
+
+### Technologies
+`Blazor` `.NET Core` `SQL Server`
+
+---
+
+# 💼 Professional Experience
+
+## 🔹 Technology Lead — Thales
+- Led backend modernization and database migration initiatives
+- Improved authentication platform performance and scalability
+- Managed team delivery and technical architecture decisions
+
+## 🔹 Technology Specialist — Damco Solutions
+- Developed enterprise insurance solutions using Angular and .NET Core
+- Created APIs, import systems, SQL jobs, and monitoring tools
+
+## 🔹 Technology Lead — Infosys
+- Led teams of 18 developers
+- Built banking, CRM automation, IVR, and AI-powered systems
+- Delivered enterprise-scale applications across multiple domains
+
+## 🔹 Application Development Senior Analyst — Accenture
+- Developed APIs and enterprise insurance platforms
+- Improved SQL performance and optimized workflows
+- Worked on mobile and web enterprise systems
+
+## 🔹 Software Engineer — Veridic Technologies
+- Built API simulation and diagnostics platforms
+- Worked on e-commerce and mobile integration systems
+
+## 🔹 Associate Software Engineer — Icreon
+- Developed logistics and sports management platforms
+- Built MVC applications and reporting systems
+
+---
+
+# 🛠️ Core Tech Stack
+
+## Backend & APIs
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge)
+![Web API](https://img.shields.io/badge/Web_API-000000?style=for-the-badge)
+
+---
+
+## Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge)
+
+---
+
+## Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+---
+
+## Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+---
+
+## AI, CRM & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge)
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0B53CE?style=for-the-badge)
+![Dataverse](https://img.shields.io/badge/Dataverse-0066FF?style=for-the-badge)
+
+---
+
+# 🏆 Certifications & Achievements
+
+- ✅ AZ-900 Azure Fundamentals
+- ✅ AZ-204 Developing Solutions for Microsoft Azure
+- ✅ Claude Code in Action
+- 🏅 Promoted to senior level within 6 months
+- 🏅 Awarded for resolving critical P1 production issues
+- 🏅 Received client appreciation awards
+- 🏅 Built complete IVR framework independently
+- 🏅 Awarded in Hackathons for innovative solutions
+- 🏅 Recognized for AI-driven automation initiatives
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilchaudhary30&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilchaudhary30&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilchaudhary30&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/nikhilchaudhary30" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="mailto:nikhilchaudhary30@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" />
+</a>
+</p>
+
+---
+
+# 📸 Beyond Engineering
+
+Apart from enterprise software development, I’m also passionate about:
+
+### 📷 Photography
+- Nature Photography
+- Travel Photography
+- Creative Editing & Visual Composition
+
+### 🎮 Gaming & Technology
+- PC Gaming Enthusiast
+- Unreal Engine Exploration
+- Gaming APIs & Automation
+- Hardware & Performance Optimization
+- Steam & Epic Games Integrations
+- Raspberry Pi & Smart Automation Projects
+
+---
+
+<p align="center">
+⭐ Always building, learning, and improving engineering workflows through clean architecture, automation, cloud engineering, and AI-assisted development.
+</p>
